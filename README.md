@@ -5,7 +5,7 @@
 <b>Final-Year CSE @ IUT · Software &amp; ML Enthusiast</b>
 
 <a href="https://github.com/alfishahrin-05">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=89B4FA&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+%40+IUT;Former+Intern+%40+Huawei+Bangladesh;Building+full-stack+apps+%26+ML+experiments;Seeking+Software+%2F+ML+internship+opportunities" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=89B4FA&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+%40+IUT;Former+Intern+%40+Huawei+Bangladesh;Building+full-stack+apps+%26+ML+experiments" alt="typing animation" />
 </a>
 
 <br/>
@@ -48,7 +48,7 @@
 
 **Machine Learning & Data**
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas,numpy&theme=dark" alt="ml" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" alt="ml" />
 
 **Web & Backend**
 
@@ -58,7 +58,7 @@
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" alt="tools" />
 
-<sub>Also: SQL · Matplotlib · REST APIs · Servlets/JSP · OMNeT++/INET · 8086 Assembly · Proteus · Jupyter · Overleaf</sub>
+<sub>Also: SQL · pandas · NumPy · Matplotlib · REST APIs · Servlets/JSP · OMNeT++/INET · 8086 Assembly · Proteus · Jupyter · Overleaf</sub>
 
 </div>
 
