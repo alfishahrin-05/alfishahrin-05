@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:89b4fa,100:cba6f7&text=Hi%2C%20I'm%20Alfi%20Shahrin&fontColor=1e1e2e&fontSize=40&fontAlignY=38&desc=Final-Year%20CSE%20%40%20IUT%20%C2%B7%20Software%20%26%20ML%20Enthusiast&descAlignY=58&descSize=17" alt="header banner" width="100%" />
+<h1>Hi, I'm Alfi Shahrin</h1>
+
+<b>Final-Year CSE @ IUT · Software &amp; ML Enthusiast</b>
 
 <a href="https://github.com/alfishahrin-05">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=89B4FA&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+%40+IUT;Former+Intern+%40+Huawei+Bangladesh;Building+full-stack+apps+%26+ML+experiments;Seeking+Software+%2F+ML+internship+opportunities" alt="typing animation" />
