@@ -68,7 +68,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**🧭 [Project Odyssey](https://github.com/Deatrax/ProjectOdyssey)**
+### 🧭 [Project Odyssey](https://github.com/Deatrax/ProjectOdyssey)
 Smart travel companion that generates personalised weekly itineraries, supports social trip planning, and adds gamified achievements for visiting new places.
 
 `JavaScript` · `Node.js` · `Supabase` · `Gemini API`
@@ -76,7 +76,7 @@ Smart travel companion that generates personalised weekly itineraries, supports 
 </td>
 <td width="50%" valign="top">
 
-**📱 [Project Odyssey Mobile](https://github.com/Deatrax/Project-Odyssey-mobile)**
+### 📱 [Project Odyssey Mobile](https://github.com/Deatrax/Project-Odyssey-mobile)
 The mobile companion to Project Odyssey, bringing trip planning on the go.
 
 `Mobile`
@@ -86,7 +86,7 @@ The mobile companion to Project Odyssey, bringing trip planning on the go.
 <tr>
 <td width="50%" valign="top">
 
-**🍯 [HoneyMesh](https://github.com/Deatrax/HoneyMesh)**
+### 🍯 [HoneyMesh](https://github.com/Deatrax/HoneyMesh)
 Distributed cyber-deception and incident-response platform. Decoy endpoints lure attackers, a rule-based engine scores threats, and an analyst dashboard shows live alerts and auto-created incidents.
 
 `Java` · `Spring Boot` · `React` · `PostgreSQL` · `Redis` · `RabbitMQ` · `Docker`
@@ -94,7 +94,7 @@ Distributed cyber-deception and incident-response platform. Decoy endpoints lure
 </td>
 <td width="50%" valign="top">
 
-**🧬 [ThyroAI](https://github.com/Deatrax/ThyroAI)**
+### 🧬 [ThyroAI](https://github.com/Deatrax/ThyroAI)
 Circularity-ablated thyroid diagnosis. Benchmarked 7 classifiers across a 4-tier feature ablation and showed that part of the macro-F1 gain came from label-proxy leakage, confirmed with SHAP.
 
 `Python` · `scikit-learn` · `SHAP`
@@ -104,7 +104,7 @@ Circularity-ablated thyroid diagnosis. Benchmarked 7 classifiers across a 4-tier
 <tr>
 <td colspan="2" valign="top">
 
-**🏠 [RoomLagbe](https://github.com/Prince02031/RoomLagbe)**
+### 🏠 [RoomLagbe](https://github.com/Prince02031/RoomLagbe)
 Student-focused rental platform with landlord listings, student-to-student room sharing and booking workflows, plus fair-rent estimation and walking-time commute calculation to compare listings against campus proximity and budget.
 
 `Web Platform` · `Relational DBMS`
