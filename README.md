@@ -139,7 +139,7 @@ Student-focused rental platform with landlord listings, student-to-student room 
 
 <div align="center">
 
-<h2>Thanks for stopping by</h2>
+<h4>Thanks for stopping by</h4>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:cba6f7,100:89b4fa&section=footer" alt="footer" width="100%" />
 
